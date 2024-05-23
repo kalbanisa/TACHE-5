@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: century;
+}
+header{
+    background-image: url(img_lights.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.menu{
+    display: flex;
+    padding: 10px;
+    background-color: #fff;
+    height: 60px;
+    justify-content: center;
+}
+ul{
+    display: flex;
+}
+.menu li{
+    list-style-type: none;
+}
+
+.menu a{
+    display: block;
+    min-width: 120px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+
+}
+.LOGO img{
+    height: 10vH;
+    border-radius: 13px;
+    position: relative;
+}
+img{
+    margin-left: 620px;
+    margin-top: 250px;
+}
+ .forma{
+    text-align: center;
+    margin-top: 23px;
+    background-color: rgb(74, 66, 66);
+    width: 20%;
+    margin-left: 520px;
+    padding-bottom: px;
+ }
+ .forma p{
+    color: #fff;
+    display: block;
+    text-align: center;
+    padding: 15px; 
+ }
+ .lacus{
+    color:floralwhite;
+     margin-left: 520px;
+     padding-top: 12px;
+ }
+ .span1{
+    margin-left: 30px;
+     }
+ .span2{
+margin-left: 100px;
+ }
+ .lacus p{
+    font-size: 20px;
+ }
+ .btn{
+    margin-left: 1099px;
+    margin-top: 50px;
+ }
+ .btn button{
+    padding: 12px 20px;
+    background-color: black;
+    color: #fff;
+    border-radius: 25px;
+    font-size: 15px;
+ }
+.R{
+    
+    color: rgb(84, 81, 81);
+    font-size: 20px;
+}
